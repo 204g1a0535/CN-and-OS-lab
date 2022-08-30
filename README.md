@@ -1,1 +1,1 @@
-# CN-and-OS-lab
+# CNOSlab
